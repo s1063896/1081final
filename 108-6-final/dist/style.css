@@ -12,7 +12,7 @@ body {
   background: #afb9ff;
   margin: 0;
   overflow: hidden;
-  height: 700px;
+  height: 400px;
   weight: 100%;
 }
 
@@ -23,7 +23,7 @@ body {
   width: 500px;
   position: absolute;
   top: 300px;
-  left: 450px;
+  left: 80px;
   z-index:0;
 
 }
@@ -179,7 +179,7 @@ body {
 }
 .wl{
   position:absolute;
-  right:-180px;
+  right: -140px;
   transition: 0.5s;
 }
 .left{
@@ -229,7 +229,7 @@ body {
 .table{
   position:absolute;
   width:2000px;
-  height:300px;
+  height:350px;
   background:#35384f;
   top: 100px;
   left:-550px;
